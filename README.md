@@ -22,7 +22,7 @@ This repository contains 6 fundamental Python scripts designed for beginners to 
 *   **basic_input_output.py** - Shows how to use the input() function to take user data and display outcomes using print().
 *   **simple_calculator.py** - A basic script practicing arithmetic operations like addition, subtraction, multiplication, and division.
 *   **if_else_conditions.py** - Introduces control flow using basic conditional structures for ddata_types_demo.pydata_types_demo.py** - Explores how Python handles built-in collections or dynamic typing mechanisms.
-
+*   **logical_operators.py** - Demonstrates how and, or, and not work by returning boolean values (True/False) based on real-world examples.
   
 *   ## 📬 Let's Connect!
 
