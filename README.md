@@ -23,7 +23,7 @@ This repository contains 6 fundamental Python scripts designed for beginners to 
 *   **simple_calculator.py** - A basic script practicing arithmetic operations like addition, subtraction, multiplication, and division.
 *   **if_else_conditions.py** - Introduces control flow using basic conditional structures for ddata_types_demo.pydata_types_demo.py** - Explores how Python handles built-in collections or dynamic typing mechanisms.
 *   **logical_operators.py** - Demonstrates how and, or, and not work by returning boolean values (True/False) based on real-world examples.
-  
+*   **conditional_statements.py** - Demonstrates decision-making in Python using if, elif, and else statements along with logical operators.
 *   ## 📬 Let's Connect!
 
 If you want to discuss Python programming, collaborate on a project, or just say hello, feel free to reach out to me through any of the platforms below:
